@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Calendario</string>
+    <string name="tvGreeting">¡Bienvenido!</string>
+    <string name="tvGreetingText">Crea un nuevo Evento con el siguiente Botón.</string>
+    <string name="tvCreateEvent">Crear Evento</string>
+    <string name="lblCancel">Cancelar</string>
+
+    <!--AddEvent Activity -->
+    <string name="tvEventType">Tipo de Evento</string>
+    <string-array name="spEventTypesValues">
+        <item>Cita</item>
+        <item>Aniversario</item>
+        <item>Cuenta Atrás</item>
+    </string-array>
+    <string name="tvEventName">Nombre del Evento</string>
+    <string name="tvStartDate">Fecha de Inicio</string>
+    <string name="tvEndDate">Fecha de Fin</string>
+    <string name="swAllDay">Todo el Día</string>
+    <string name="tvDescription">Descripción del Evento</string>
+    <string name="lblSave">AGENDAR</string>
+
 </resources>
